@@ -1,0 +1,9 @@
+.vscode
+FR
+cv2
+doc
+dlib_fr
+*.avi
+*.zip
+*.mp4
+CV/data
